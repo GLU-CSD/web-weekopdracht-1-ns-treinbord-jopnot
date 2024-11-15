@@ -56,16 +56,20 @@
 
 #n18 {
     font-size: 40px;
-    margin-left: 40px;
-    margin-top: 5px;
+    margin-left: 10px;
+    margin-top: -10px;
+    font-weight: 500;
     display: inline-block
+   
 }
 
 #b {
     font-size: 26px;
-    margin-left: 45px;
-    margin-top: -20px;
+    margin-left: 55px;
+    margin-top: -70px;
+    font-weight: 500;
     display: inline-block
+   
 }
 
 #vierkant3 {
@@ -77,5 +81,78 @@
 }
 #imagelogons{
     width:100px;
-    margin-left: 30px;
+    margin-left: 400px;
 }
+#intercity{
+    width:200px;
+    margin-left: 250px;
+    font-weight: 840;
+    margin-top: -195px;
+    height: 200px;
+    font-size: 30px;
+}
+#b4{
+
+    width: 30px; ;
+    margin-left: 20px;
+    font-weight: 500;
+    margin-top: -45px;
+    height: 200px;
+    font-size: 30px;
+}
+
+#minuut{
+
+    width: 30px; ;
+    margin-left: 60px;
+    font-weight: 500;
+    margin-top: -205px;
+    height: 200px;
+    font-size: 30px;
+}
+#utrechtCS{
+    width: 50px; ;
+    margin-left: 60px;
+    margin-top: -145px;
+    height: 200px;
+    font-size: 30px;
+
+ }
+ #via{
+    width: 50px; ;
+    margin-left: 60px;
+    margin-top: -145px;
+    height: 200px;
+    font-size: 30px;
+
+ }
+
+ #woerden{
+
+    width: 50px; ;
+    margin-left: 120px;
+    margin-top: -200px;
+    height: 200px;
+    font-size: 30px;
+
+ }
+
+ #vleuten{
+
+    width: 50px; ;
+    margin-left: 250px;
+    margin-top: -200px;
+    height: 200px;
+    font-size: 30px;
+
+
+ }
+
+ #terwijde{
+
+    width: 50px; ;
+    margin-left: 360px;
+    margin-top: -200px;
+    height: 200px;
+    font-size: 30px;
+ }
